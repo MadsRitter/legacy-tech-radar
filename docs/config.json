@@ -1,68 +1,117 @@
 {
-  "date": "2024.05",
-  "entries": [
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "GraphQL",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Typescript",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "TypeOrm",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "NestJS",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "NestJS Query",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "REACT",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "GCP Cloud Storage",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "GCP SQL",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "GCP Redis",
-      "active": true,
-      "moved": 0
-    } 
-  ]
+    "date": "2024.05",
+    "entries": [
+        {
+            "quadrant": 0,
+            "ring": 1,
+            "label": "gRPC",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "GraphQL",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "Typescript",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "TypeOrm",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "NestJS",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 3,
+            "label": "NestJS Query",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 0,
+            "ring": 0,
+            "label": "REACT",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 0,
+            "label": "GCP Cloud Run",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 1,
+            "label": "Pulumi Cloud",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 1,
+            "ring": 1,
+            "label": "GCP API Gateway",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 0,
+            "label": "GCP Cloud Storage",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 0,
+            "label": "GCP SQL",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 2,
+            "ring": 0,
+            "label": "GCP Redis",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 3,
+            "label": "Bull",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 0,
+            "label": "GCP Cloud Tasks",
+            "active": true,
+            "moved": 0
+        },
+        {
+            "quadrant": 3,
+            "ring": 0,
+            "label": "GCP Pub/Sub",
+            "active": true,
+            "moved": 0
+        }
+    ]
 }
