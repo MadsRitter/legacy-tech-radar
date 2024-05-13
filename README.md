@@ -8,7 +8,9 @@ by ThoughtWorks](https://www.thoughtworks.com/radar).
 
 ## Deployment
 
-Tech Radar is a static page, so it can be deployed using any hosting provider of your choice offering static page hosting.
+Tech Radar is a static page, so it can be deployed using any hosting provider of your choice offering static page hosting. 
+
+The tech radar is deployed as a github page accessable here https://wearelegacy.github.io/legacy-tech-radar/
 
 ## Local Development
 
